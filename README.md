@@ -1,4 +1,4 @@
-#github.io
+github.io
 ---
 layout: page
 title: Home
