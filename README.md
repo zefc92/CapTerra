@@ -1,6 +1,6 @@
 <!-- wp:cover {"url":"https:\/\/no73941184.files.wordpress.com\/2020\/07\/img_20190910_171028-min.jpg","id":70,"dimRatio":0,"focalPoint":{"x":"0.24","y":"0.78"},"contentPosition":"center center","align":"full"} -->
 <div class="wp-block-cover alignfull is-position-center-center" style="background-image:url('https://no73941184.files.wordpress.com/2020/07/img_20190910_171028-min.jpg');background-position:24% 78%;"><div class="wp-block-cover__inner-container"><!-- wp:spacer -->
-<div style="height:100px;" aria-hidden="true" class="wp-block-spacer"></div>
+<div style="height:1240px;" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"align":"left","level":1,"textColor":"foreground"} -->
