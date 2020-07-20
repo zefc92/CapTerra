@@ -129,7 +129,7 @@
 			$('.scrolly').scrolly();
 
 		// Background.
-			$wrapper._parallax(0.925);
+			$wrapper._parallax(0.5);
 
 		// Nav Panel.
 
