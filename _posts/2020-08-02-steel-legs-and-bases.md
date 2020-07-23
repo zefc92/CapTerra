@@ -23,7 +23,7 @@ Steel legs are neat cuz they are strong, also they look cool. they can be many c
 
 
 
-<hr />
+
 
 ### Structural Steel Legs 
 <p><span class="image right"><img src="{{ "/images/pic03.jpg" | absolute_url }}" alt="" /></span>  In both layman and nerd-speak, this is a paragraph. This is a paragraph that goes on the right side of an image. This is the text that goes under the heading and the subtitle. Paragraphs vary in length but in school </p>
