@@ -2,8 +2,8 @@
 layout: post
 title:  "Steel Legs and Bases"
 date:   "2020-9-1"
-excerpt: "Get wood!"
-image: "images/toby.jpg"
+excerpt: "Get Steel!"
+image: "/images/toby.jpg"
 ---
 
 Steel legs are neat cuz they are strong, also they look cool. they can be many colours. 
