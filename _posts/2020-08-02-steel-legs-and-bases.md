@@ -14,6 +14,11 @@ Steel legs are neat cuz they are strong, also they look cool. they can be many c
 
 <p><span class="image left"><img src="{{ "/images/pic02.jpg" | absolute_url }}" alt="" /></span>Available in 14" 16" and 24", either 2 bar or three bar </p>
 
+
+
+
+
+
 <hr />
 
 ### Structural Steel Legs 
