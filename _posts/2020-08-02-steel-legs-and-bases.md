@@ -10,11 +10,11 @@ Steel legs are neat cuz they are strong, also they look cool. they can be many c
 
 
 ### Hairpin
-<a href="{{ "/images/2-more-tables.jpg" | absolute_url }}"> <span class="image left"><img src="{{ "/images/2-more-tables.jpg" | absolute_url }}" alt="" /></span></a>
+<a href="{{ "/images/2-more-tables.jpg" | absolute_url }}"> <p><span class="image left"><img src="{{ "/images/2-more-tables.jpg" | absolute_url }}" alt="" /></span></a>
 
-<p><span class="image left"><img src="{{ "/images/2-more-tables.jpg" | absolute_url }}" alt="" /></span>Hairpin legs are a classic that look great paired with any top. Available in coffee table, end table, or desk height. Hairpin legs are good for coffee tables but not so great at doing your hair. i need to fill some space.</p>
+Hairpin legs are a classic that look great paired with any top. Available in coffee table, end table, or desk height. Hairpin legs are good for coffee tables but not so great at doing your hair. i need to fill some space.</p>
 <br>
-<br>
+<br><a href="#">link</a>
 <br>
 <p><span class="image right"><img src="{{ "/images/outdoors.jpg" | absolute_url }}" alt="" /></span>  Another option on the Hairpin is to add a third peice of bar, here we have some <b>3-bar hairpins</b> finished in a copper and mounted to a copper kitsugi table top. </p>
 <br>
