@@ -30,10 +30,7 @@
 			));
 
 
-			&:hover {
-				border-color: _palette(invert, accent) !important;
-				color: _palette(invert, accent) !important;
-			}
+			
 		}
 
 		@include breakpoint(medium) {
