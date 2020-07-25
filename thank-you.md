@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Thank you for your correspondence
+title: Thank You
 ---
-## Thank you for your correspondence
-We are delighted to hear from you. You may expect to receive an answer soon.
+## Thanks for getting in touch
+We will get back to you as ASAP as possible.
 
 Have a nice day!
