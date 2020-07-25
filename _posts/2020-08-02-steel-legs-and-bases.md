@@ -18,6 +18,8 @@ Steel legs are neat cuz they are strong, also they look cool. they can be many c
       
 <p><a href="{{ "/images/white-dipped-hp.jpg" | absolute_url }}" data-lightbox="hairpin" ><z class="image left"><img src="{{ "/images/white-dipped-hp-thumb.jpg" | absolute_url }}" alt="" /></z></a>
 We're always looking for new ways to get creative with the classics</p>
+<br>
+<br>
 
 ### Structural Steel Legs 
 <p><a href="{{ "/images/trap.jpg" | absolute_url }}" data-lightbox="image-3" ><z class="image left"><img src="{{ "/images/trap-thumb.jpg" | absolute_url }}" alt="" /></z></a> Whether you're looking for a sturdy conversation peice or some effective protection during the tornado, there's no substitute for structural grade steel. <b>Trapazoidal</b> both layman and nerd-speak, this is a paragraph.</p>
