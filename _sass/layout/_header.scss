@@ -15,7 +15,7 @@
 		@include vendor('pointer-events', 'none');
 		@include vendor('user-select', 'none');
 		height: 20rem;
-		padding-bottom: (_size(padding) * 1);
+		padding-bottom: (_size(padding) * 2);
 		position: relative;
 		text-align: center;
 		z-index: 2;
