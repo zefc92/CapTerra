@@ -17,7 +17,7 @@ Hairpin legs are a classic that look great paired with any top. Available in cof
 <br>
 <br>
 <br>
-<p><a href="{{ "/images/outdoors.jpg" | absolute_url }}" data-lightbox="image-1" ><z class="image left"><img src="{{ "/images/outdoors.jpg" | absolute_url }}" alt="" /></z></a>  Another option on the Hairpin is to add a third peice of bar, here we have some <b>3-bar hairpins</b> finished in a copper and mounted to a copper kitsugi table top. </p>
+<p><a href="{{ "/images/outdoors.jpg" | absolute_url }}" data-lightbox="image-1" ><z class="image right"><img src="{{ "/images/outdoors.jpg" | absolute_url }}" alt="" /></z></a>  Another option on the Hairpin is to add a third peice of bar, here we have some <b>3-bar hairpins</b> finished in a copper and mounted to a copper kitsugi table top. </p>
 <br>
 <br>
 <br>
@@ -27,7 +27,7 @@ Hairpin legs are a classic that look great paired with any top. Available in cof
 <br>
 <br>
 <br>
-  <p><span class="image left"><img src="{{ "/images/toby.jpg" | absolute_url }}" alt="" /></span> Here is an example of the beefiest hairpin leg you'll find anywhere the <b>Squarepin</b> </p>
+  <p><span class="image right"><img src="{{ "/images/toby.jpg" | absolute_url }}" alt="" /></span> Here is an example of the beefiest hairpin leg you'll find anywhere the <b>Squarepin</b> </p>
 <br>
 <br>
 <br>
