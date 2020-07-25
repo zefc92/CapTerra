@@ -17,13 +17,13 @@ Hairpin legs are a classic that look great paired with any top. Available in cof
 <br>
 <br>
 <br>
-<p><span class="image right"><img src="{{ "/images/outdoors.jpg" | absolute_url }}" alt="" /></span>  Another option on the Hairpin is to add a third peice of bar, here we have some <b>3-bar hairpins</b> finished in a copper and mounted to a copper kitsugi table top. </p>
+<p><a href="{{ "/images/outdoors.jpg" | absolute_url }}" data-lightbox="image-1" ><z class="image left"><img src="{{ "/images/outdoors.jpg" | absolute_url }}" alt="" /></z></a>  Another option on the Hairpin is to add a third peice of bar, here we have some <b>3-bar hairpins</b> finished in a copper and mounted to a copper kitsugi table top. </p>
 <br>
 <br>
 <br>
 
 ### Structural Steel Legs 
-<p><span class="image right"><img src="{{ "/images/lamp.jpg" | absolute_url }}" alt="" /></span> Whether you're looking for a sturdy conversation peice or some effective protection during the tornado, there's no substitute for structural grade steel. <b>Trapazoidal</b> both layman and nerd-speak, this is a paragraph.</p>
+<p><a href="{{ "/images/lamp.jpg" | absolute_url }}" data-lightbox="image-1" ><z class="image left"><img src="{{ "/images/lamp.jpg" | absolute_url }}" alt="" /></z></a> Whether you're looking for a sturdy conversation peice or some effective protection during the tornado, there's no substitute for structural grade steel. <b>Trapazoidal</b> both layman and nerd-speak, this is a paragraph.</p>
 <br>
 <br>
 <br>
