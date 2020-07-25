@@ -8,7 +8,7 @@
 
 	#header {
 		@include color-typography(invert);
-		@include vendor('align-items', 'left');
+		@include vendor('align-items', 'center');
 		@include vendor('display', 'flex');
 		@include vendor('flex-direction', 'column');
 		@include vendor('justify-content', 'flex-end');
@@ -28,7 +28,7 @@
 				'transform 0.5s ease',
 				'visibility 0.5s'
 			));
-			@include vendor('pointer-events', 'auto');
+			@ include vendor('pointer-events', 'auto');
 			border-style: null;
 			border-color: _palette(invert, border);
 			border-width: 5px !important;
