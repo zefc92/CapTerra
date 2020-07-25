@@ -41,7 +41,7 @@
 		&.fit {
 			display: block;
 			margin: (_size(element-margin) * 1.25) 0;
-			width: 40%;
+			width: 100%;
 
 			&:first-child {
 				margin-top: 0;
@@ -55,7 +55,7 @@
 		&.main {
 			display: block;
 			margin: (_size(element-margin) * 2) 0;
-			width: 60%;
+			width: 100%;
 
 			&:first-child {
 				margin-top: 0;
