@@ -11,20 +11,20 @@ Steel legs are neat cuz they are strong, also they look cool. they can be many c
 
 ### Hairpins
 <p>
-<a href="{{ "/images/gold-hp-endtables.jpg" | absolute_url }}" data-lightbox="image-1" ><z class="image left"><img src="{{ "/images/gold-hp-endtables-thumb.jpg" | absolute_url }}" alt="" /></z></a>
+<a href="{{ "/images/gold-hp-endtables.jpg" | absolute_url }}" data-lightbox="hairpin" data-title="My caption">Image #1><z class="image left"><img src="{{ "/images/gold-hp-endtables-thumb.jpg" | absolute_url }}" alt="" /></z></a>
 Hairpin legs are a classic that look great paired with any top. Available in coffee table, end table, or desk height. Hairpin legs are good for coffee tables but not so great at doing your hair. i need to fill some space.</p>
 
 <br>
 <br>
 <br>
 
-<p><a href="{{ "/images/copper-bean-3hp.jpg" | absolute_url }}" data-lightbox="image-2" ><z class="image right"><img src="{{ "/images/copper-bean-3hp-thumb.jpg" | absolute_url }}" alt="" /></z></a>  Another option on the Hairpin is to add a third peice of bar, here we have some <b>3-bar hairpins</b> finished in a copper and mounted to a copper kitsugi table top. </p>
+<p><a href="{{ "/images/copper-bean-3hp.jpg" | absolute_url }}" data-lightbox="hairpin" ><z class="image right"><img src="{{ "/images/copper-bean-3hp-thumb.jpg" | absolute_url }}" alt="" /></z></a>  Another option on the Hairpin is to add a third peice of bar, here we have some <b>3-bar hairpins</b> finished in a copper and mounted to a copper kitsugi table top. </p>
 <br>
 <br>
 <br>
 <p>
-<a href="{{ "/images/gold-hp-endtables.jpg" | absolute_url }}" data-lightbox="image-1" ><z class="image left"><img src="{{ "/images/gold-hp-endtables-thumb.jpg" | absolute_url }}" alt="" /></z></a>
-Hairpin legs are a classic that look great paired with any top. Available in coffee table, end table, or desk height. Hairpin legs are good for coffee tables but not so great at doing your hair. i need to fill some space.</p>
+<div><a href="{{ "/images/white-dipped-hp.jpg" | absolute_url }}" data-lightbox="hairpin" ><z class="image left"><img src="{{ "/images/white-dipped-hp-thumb.jpg" | absolute_url }}" alt="" /></z></a>
+We're always looking for new ways to get creative with the classics</p></div>
 ### Structural Steel Legs 
 <p><a href="{{ "/images/trap.jpg" | absolute_url }}" data-lightbox="image-3" ><z class="image left"><img src="{{ "/images/trap-thumb.jpg" | absolute_url }}" alt="" /></z></a> Whether you're looking for a sturdy conversation peice or some effective protection during the tornado, there's no substitute for structural grade steel. <b>Trapazoidal</b> both layman and nerd-speak, this is a paragraph.</p>
 <br>
