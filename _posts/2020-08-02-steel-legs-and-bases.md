@@ -3,7 +3,7 @@ layout: post
 title:  "Steel Legs and Bases"
 date:   "2020-9-1"
 excerpt: "Get Steel!"
-image: "/images/toby.jpg"
+image: "/images/squarepin.jpg"
 ---
 
 Steel legs are neat cuz they are strong, also they look cool. they can be many colours. 
@@ -24,11 +24,11 @@ Hairpin legs are a classic that look great paired with any top. Available in cof
 <br>
 <div/>
 ### Structural Steel Legs 
-<p><a href="{{ "/images/lamp.jpg" | absolute_url }}" data-lightbox="image-1" ><z class="image left"><img src="{{ "/images/lamp.jpg" | absolute_url }}" alt="" /></z></a> Whether you're looking for a sturdy conversation peice or some effective protection during the tornado, there's no substitute for structural grade steel. <b>Trapazoidal</b> both layman and nerd-speak, this is a paragraph.</p>
+<p><a href="{{ "/images/trap.jpg" | absolute_url }}" data-lightbox="image-3" ><z class="image left"><img src="{{ "/images/trap-thumb.jpg" | absolute_url }}" alt="" /></z></a> Whether you're looking for a sturdy conversation peice or some effective protection during the tornado, there's no substitute for structural grade steel. <b>Trapazoidal</b> both layman and nerd-speak, this is a paragraph.</p>
 <br>
 <br>
 <br>
-  <p><span class="image right"><img src="{{ "/images/toby.jpg" | absolute_url }}" alt="" /></span> Here is an example of the beefiest hairpin leg you'll find anywhere the <b>Squarepin</b> </p>
+  <p><a href="{{ "/images/squarepin.jpg" | absolute_url }}" data-lightbox="image-4" ><z class="image left"><img src="{{ "/images/squarepin-thumb.jpg" | absolute_url }}" alt="" /></z></a> Here is an example of the beefiest hairpin leg you'll find anywhere the <b>Squarepin</b> </p>
 <br>
 <br>
 <br>
