@@ -9,6 +9,7 @@
 	#wrapper {
 		@include vendor('transition', 'opacity #{_duration(menu)} ease');
 		position: relative;
+		top: 1rem;
 		z-index: 1;
 		overflow: hidden;
 
