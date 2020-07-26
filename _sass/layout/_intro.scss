@@ -11,7 +11,7 @@
 		@include color-button(invert);
 		@include padding(_size(padding) * 4, _size(padding) * 1);
 		@include vendor('align-items', 'center');
-		@include vendor('display', 'flex-start');
+		@include vendor('display', 'flex');
 		@include vendor('flex-direction', 'column');
 		@include vendor('justify-content', 'flex-end');
 		@include vendor('transition', (
