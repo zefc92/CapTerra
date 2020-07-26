@@ -11,7 +11,9 @@ sitemap:
 
 Each piece we build is unique, but we use a simple and consistent approach everytime we take on a project.
 
-<z class="image left"><img src="{{"/images/gold-hp-endtables-thumb.jpg" | absolute_url }}" alt="" /></z><div class="box"><p><h3>Collaboration</h3>
+<z class="image left"><img src="{{"/images/gold-hp-endtables-thumb.jpg" | absolute_url }}" alt="" /></z>
+
+<div class="box"><p><h3>Collaboration</h3>
       
    Browse our portfolio and decide what elements you would like to see in your custom piece. Contact us with your ideas and describe your vision. If you're not sure, that's ok, we are always happy to offer up advice. Once we have enough information we will send you 3D drawings* and a quote. A 50% deposit is required to secure your position in our schedule.
   
