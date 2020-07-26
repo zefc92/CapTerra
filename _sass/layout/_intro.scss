@@ -24,7 +24,12 @@
 		text-align: center;
 		z-index: 1;
 		min-height: 100vh;
-
+		
+		svg {
+			width: 70vw;
+			max-height: 50vh;
+		}
+		
 		h1 {
 			font-size: 5rem;
 			line-height: 1;
