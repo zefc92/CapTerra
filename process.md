@@ -13,14 +13,14 @@ Each piece we build is unique, but we use a simple and consistent approach every
 
 <div class="box"><p><h3>Collaboration</h3>
       
-    Browse our portfolio and decide what elements you would like to see in your custom piece. Contact us with your ideas and describe your vision. If you're not sure, that's ok, we are always happy to offer up advice. Once we have enough information we will send you 3D drawings* and a quote. A 50% deposit is required to secure your position in our schedule.
+   Browse our portfolio and decide what elements you would like to see in your custom piece. Contact us with your ideas and describe your vision. If you're not sure, that's ok, we are always happy to offer up advice. Once we have enough information we will send you 3D drawings* and a quote. A 50% deposit is required to secure your position in our schedule.
   
   *For some complex designs, we may ask for a deposit before creating 3D drawings.</p>
 </div>
 
 <div class="box"><p><h3>Creation</h3>
 
-    Building will typically start within 2 weeks of receiving deposit. We will be in communication to confirm all aspects of the final design and provide updates as the build progresses. Depending on the size of your project, completion should be within 4-6 weeks. Changes and adjustments are welcome, but may impact timeline and final costs.
+   Building will typically start within 2 weeks of receiving deposit. We will be in communication to confirm all aspects of the final design and provide updates as the build progresses. Depending on the size of your project, completion should be within 4-6 weeks. Changes and adjustments are welcome, but may impact timeline and final costs.
   </p>
 </div>
 
