@@ -9,7 +9,7 @@
 	#intro {
 		@include color-typography(invert);
 		@include color-button(invert);
-		@include padding(_size(padding) * -4, _size(padding) * 4);
+		@include padding(_size(padding) * -4, _size(padding) * 8);
 		@include vendor('align-items', 'center');
 		@include vendor('display', 'flex');
 		@include vendor('flex-direction', 'column');
