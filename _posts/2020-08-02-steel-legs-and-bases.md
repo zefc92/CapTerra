@@ -2,7 +2,7 @@
 layout: post
 title:  "Steel Legs and Bases"
 date:   "2020-9-1"
-excerpt: "Get Steel!"
+excerpt: "Hairpins, Structural Steel"
 image: "/images/squarepin.jpg"
 ---
 
