@@ -51,7 +51,7 @@
 		& + #header {
 			margin-top: -10rem;
 
-			.logo {
+			.svg {
 				@include vendor('transform', 'translateY(2rem)');
 				opacity: 0;
 				visibility: hidden;
@@ -70,7 +70,7 @@
 			visibility: hidden;
 
 			& + #header {
-				.logo {
+				.svg {
 					@include vendor('transform', 'translateY(0)');
 					opacity: 1;
 					visibility: visible;
