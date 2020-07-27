@@ -16,12 +16,14 @@ Steel legs are neat cuz they are strong, also they look cool. they can be many c
 <p style="clear:both;">
 <p><a href="{{ "/images/white-dipped-hp.jpg" | absolute_url }}" data-lightbox="hairpin" data-title="Hairpin"><z class="image left"><img src="{{ "/images/white-dipped-hp-thumb.jpg" | absolute_url }}" alt="" /></z></a>
 We're always looking for new ways to get creative with the classics</p>
-<p style="clear:both;">
-  
+<p style="clear:both;"></p>
+
+
 ### Structural Steel Legs 
 <p><a href="{{ "/images/trap.jpg" | absolute_url }}" data-lightbox="image-3" ><z class="image left"><img src="{{ "/images/trap-thumb.jpg" | absolute_url }}" alt="" /></z></a> Whether you're looking for a sturdy conversation peice or some effective protection during the next tornado, there's no substitute for structural grade steel. This table has <b>Trapazoidal</b> legs made of 2"x3".</p>
 
   <p><a href="{{ "/images/squarepin.jpg" | absolute_url }}" data-lightbox="image-4" ><z class="image right"><img src="{{ "/images/squarepin-thumb.jpg" | absolute_url }}" alt="" /></z></a> Here is an example of the beefiest hairpin leg you'll find anywhere the <b>Squarepin</b> </p>
+
 
 
 ### Structural Bases 
