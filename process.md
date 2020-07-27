@@ -7,7 +7,7 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-<z span class= "image main"><img src="{{"/images/unfinished.jpg" | absolute_url }}" alt="" style="width:20vw;"></z>
+<z span class= "image main"><img src="{{"/images/unfinished.jpg" | absolute_url }}" alt="" ></z>
 
 
 
