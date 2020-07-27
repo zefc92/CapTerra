@@ -48,7 +48,7 @@
 		}
 
 		& + #header {
-			margin-top: -1rem;
+			margin-top: 1rem;
 
 			.svg {
 				@include vendor('transform', 'translateY(2rem)');
