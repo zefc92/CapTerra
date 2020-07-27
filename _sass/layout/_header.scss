@@ -34,7 +34,7 @@
 			
 		}
 		
-		svg {
+		.svg {
 			@include vendor('transition', (
 				'border-color #{_duration(transition)} ease-in-out',
 				'color #{_duration(transition)} ease-in-out',
