@@ -54,7 +54,8 @@
 
 		&.main {
 			display: block;
-			margin: (_size(element-margin) * 2) 0;
+			margin-left: auto;
+  			margin-right: auto;
 			width: 100%;
 
 			&:first-child {
