@@ -7,7 +7,7 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-<img src="{{"/images/unfinished.jpg" | absolute_url }}" alt="" style="width:20vw;">
+<z class= "image fit"><img src="{{"/images/unfinished.jpg" | absolute_url }}" alt="" style="width:20vw;"></z>
 
 
 ## Our Process
