@@ -7,11 +7,13 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
+
+<z class="image fit"><img src="{{"/images/gold-hp-endtables-thumb.jpg" | absolute_url }}" alt="" /></z>
+
 ## Our Process
 
 Each piece we build is unique, but we use a simple and consistent approach everytime we take on a project.
 
-<z class="image left"><img src="{{"/images/gold-hp-endtables-thumb.jpg" | absolute_url }}" alt="" /></z>
 
 <div class="box"><p><h3>Collaboration</h3>
       
