@@ -8,7 +8,7 @@ sitemap:
     changefreq: weekly
 ---
 
-<z class="image fit"><img src="{{"/images/gold-hp-endtables-thumb.jpg" | absolute_url }}" alt="" /></z>
+<z class="image fit"><img src="{{"/images/unfinished.jpg" | absolute_url }}" alt="" /></z>
 
 ## Our Process
 
