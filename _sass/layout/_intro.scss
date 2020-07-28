@@ -59,7 +59,7 @@
 
 		&.hidden {
 			@include vendor('pointer-events', 'none');
-			@include vendor('transform', 'translateY(1vh)');
+			@include vendor('transform', 'translateY(100vh)');
 			@include vendor('transition', (
 				'opacity 0.5s ease',
 				'transform 0.5s ease',
