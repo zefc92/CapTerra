@@ -1,10 +1,10 @@
 # Site
 title:              Highland Park Furniture Co.
 bio:                'Custom Furniture Handmade in Calgary, Alberta'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+description:        "locally made in calgary, alberta. Custom woodworking shop that does welding, furniture fabricating, custom tables, coffee tables, stone work, carpentry, and furniture making."
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "www.highlandparkfurniture.ca" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
@@ -13,7 +13,7 @@ disqus_shortname:   default
 analytics-id:       "default"
 twitter:            default
 facebook:           default
-instagram:          default
+instagram:          @highlandparkfurnitureco
 github:             default
 
 # personal
