@@ -67,7 +67,7 @@
 			));
 			opacity: 0;
 			visibility: hidden;
-			height: 90vh;
+			height: 0vh;
 
 			& + #header {
 				@include vendor('transform', 'translateY(100vp)');
