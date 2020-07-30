@@ -67,6 +67,17 @@
 			}
 		}
 
+		
+		@include breakpoint(medium) {
+			&.main {
+				width: 75%;
+				margin-left: auto;
+				margin-right: auto;
+			}
+
+
+
+		}
 		@include breakpoint(small) {
 			&.fit {
 				margin: _size(element-margin) 0;
