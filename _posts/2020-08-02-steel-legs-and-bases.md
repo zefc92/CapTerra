@@ -26,7 +26,9 @@ Steel legs are neat cuz they are strong, also they look cool. they can be many c
 <hr>
 
 ### Structural Bases 
-<p><a href="{{ "/images/trap.jpg" | absolute_url }}" data-lightbox="structural2" data-title="Structural Steel"><z class="image left"><img src="{{ "/images/trap-thumb.jpg" | absolute_url }}" alt="" /></z></a>You ever hear the expression built like a brick shithouse? Both our <b>Regular</b> and <b>Trapazoidal</b> bases come with a simple and ludacris meteor-proof guarantee: If your table fails becomes bent, dented, collapses or otherwise fails to meet your expectations following a strike from a meteorite, we'll replace it free of charge.</p>   
-<p style="clear:both;"></p>  
-<p><a href="{{ "/images/trap.jpg" | absolute_url }}" data-lightbox="structural2" data-title="Structural Steel"><z class="image left"><img src="{{ "/images/trap-thumb.jpg" | absolute_url }}" alt="" /></z></a>The trapazoidal option is great, as it reduces toe stubbing by nearly 30%</p>
+<p><a href="{{ "/images/pine-box.jpg" | absolute_url }}" data-lightbox="structural2" data-title="Structural Steel"><z class="image left"><img src="{{ "/images/pine-box-thumb.jpg" | absolute_url }}" alt="" /></z></a>You ever hear the expression built like a brick shithouse? Both our <b>Regular</b> and <b>Trapezoidal</b> bases come with a simple and ludacris meteor-proof guarantee: If your table fails becomes bent, dented, collapses or otherwise fails to meet your expectations following a strike from a meteorite, we'll replace it free of charge.</p>   
+<p style="clear:both;"></p>
+<p><a href="{{ "/images/cedar-box.jpg" | absolute_url }}" data-lightbox="structural2" data-title="Structural Steel"><z class="image right"><img src="{{ "/images/cedar-box-thumb.jpg" | absolute_url }}" alt="" /></z></a>
+<p style="clear:both;"></p>
+<p><a href="{{ "/images/pine-trap.jpg" | absolute_url }}" data-lightbox="structural2" data-title="Structural Steel"><z class="image left"><img src="{{ "/images/pine-trap-thumb.jpg" | absolute_url }}" alt="" /></z></a>The trapezoidal option is great, as it reduces toe stubbing by nearly 30%</p>
 <p style="clear:both;"></p>
