@@ -15,13 +15,48 @@
         <textarea name="message" id="message" rows="3"></textarea>
       </div>
       <ul class="actions">
-        <li><input type="submit" value="Send Message" /></li>
+        <li><input type="submit" id="submit" value="Send Message" /></li>
       </ul>
-        <input type="hidden" name="_subject" value="New submission! from <input id=name />">
+        <input type="hidden" name="_subject" id="_subject" value="Landing(Bottom)" />
         <input type="hidden" name="_next" value="https://www.highlandparkfurniture.ca/thank-you">
         <input type="hidden" name="_captcha" value="false">
         <input type="hidden" name="_replyto">
     </form>
+  <script>
+
+    $(document).ready(function() {
+
+        $('#submit').on('click', function() {
+
+            var name= $('#name').val();
+            var id= $('#email').val();
+            var message= $('#message').val();
+            var subject= $('#_subject').val();
+
+
+            //send to formspree via ajax
+            $.ajax({
+                url:'https://formsubmit.co/info@highlandparkfurniture.ca',
+                method:'POST',
+                data:{
+                    name: name,               
+                    email: id,
+                    phone: number,
+                    comments: message,
+                    _subject: subject,
+                },
+                dataType:"json",
+                success:function() {
+                    alert('your mail has been sent!');               
+                }   
+
+            });     
+
+        });
+
+    });  
+
+</script>
   </section>
   <section class="split contact">
     <section class="alt">
