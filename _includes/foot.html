@@ -1,13 +1,15 @@
 <footer id="footer">
   <section>
-    <form method="POST" action="https://api.slapform.com/?slap_email=info@highlandparkfurniture.ca&slap_redirect=highlandparkfurniture.ca/thank-you">
+    <form action="https://formsubmit.co/info@highlandparkfurniture.ca" method="POST" />
       <div class="field">
         <label for="name">Name</label>
         <input type="text" name="name" id="name" />
       </div>
       <div class="field">
         <label for="email">Email</label>
-        <input type="email" name="slap_replyto" id="email" /> <!-- slap_replyto will set the reply-to as the submitter's email! -->
+        <input type="email" name="_replyto" id="email" />
+        <input type="hidden" name="_subject" value="New submission! from $name"><!-- slap_replyto will set the reply-to as the submitter's email! -->
+        <input type="hidden" name="_next" value="highlandparkfurniture.ca/thank-you">
       </div>
       <div class="field">
         <label for="message">Message</label>
