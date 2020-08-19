@@ -145,6 +145,9 @@
 			> * {
 				@include padding((_size(padding) * 1), (_size(padding) * 1));
 			}
+			> footer {
+			@include padding((_size(padding) * 2), (_size(padding) * 2));
+			}
 		}
 
 		@include breakpoint(xsmall) {
