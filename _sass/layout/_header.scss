@@ -10,7 +10,7 @@
 		@include vendor('pointer-events', 'none');
 		@include vendor('user-select', 'none');
 		height: 15rem;
-		padding: 1rem 0 (_size(padding) * 2.5);
+		padding: 1rem 0 #(_size(padding) * 2.5);
 		position: relative;
 		text-align: center;
 		z-index: 2;
@@ -46,12 +46,13 @@
 
 		@include breakpoint(medium) {
 			height: 11rem;
-			padding: 1rem 0 (_size(padding) * 1);
+			padding-top: 1rem;
+			padding-bottom: 2rem;
 		}
 
 		@include breakpoint(small) {
 			height: 10rem;
-			padding: 1rem 0 (_size(padding) * .5);
+			padding: 1rem 0 #(_size(padding) * .5);
 
 			.logo {
 				font-size: 1.75rem;
