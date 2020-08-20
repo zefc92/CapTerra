@@ -4,6 +4,5 @@ title: Thank You
 ---
 ## Message Sent
 Thanks for getting in touch,
-We will get back to you as ASAP as possible.
-
+we will get back to you as ASAP as possible.
 Have a nice day!
