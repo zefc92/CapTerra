@@ -10,6 +10,7 @@
 		@include vendor('pointer-events', 'none');
 		@include vendor('user-select', 'none');
 		height: 15rem;
+		padding: 1rem auto (_size(padding) * 2.5);
 		position: relative;
 		text-align: center;
 		z-index: 2;
@@ -38,7 +39,7 @@
 			));
 			
 			height: 8rem;
-			padding: 1rem auto (_size(padding) * 2.5);
+
 			
 			
 		}
