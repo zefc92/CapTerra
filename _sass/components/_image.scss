@@ -16,6 +16,11 @@
 			border-radius: _size(border-radius);
 			display: block;
 		}
+		
+		&.brand {
+			height: 50vh;
+			max-width: 90vh;
+		}	
 
 		&.left,
 		&.right {
