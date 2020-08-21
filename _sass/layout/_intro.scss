@@ -5,7 +5,139 @@
 	#intro {
 		@include color-typography(invert);
 		@include color-button(invert);
-		@include padding(_size(padding) * 2, _size(padding) * 1);
+		@include padding(_size(padding) * 0, _size(padding) * 0);
+		@include vendor('align-items', 'center');
+		@include vendor('display', 'flex');
+		@include vendor('flex-direction', 'column');
+		@include vendor('justify-content', 'space-around');
+		@include vendor('transition', (
+			'opacity 1s ease',
+			'transform 1s ease'
+		));
+		position: relative;
+		cursor: default;
+		text-align: center;
+		z-index: 1;
+		height: 40vh;
+
+		img {
+			padding: 1rem 0 1rem;
+			}
+
+		h1 {
+			font-size: 3rem;
+			line-height: 1;
+			margin: 0;
+			}
+
+		h2 {
+			margin: 0
+			}
+
+		ul {
+			margin: 0
+			}
+
+		p {
+			font-size: 1.25rem;
+			font-style: italic;
+			margin-top: 1rem;
+			text-align: center;
+			}
+
+		& + #header {
+			margin-top: 1rem;
+
+			.svg {
+				@include vendor('transform', 'translateY(2rem)');
+				opacity: 0;
+				visibility: hidden;
+			}
+		}
+
+		&.hidden {
+			@include vendor('pointer-events', 'none');
+			@include vendor('transform', 'translateY(2rem)');
+			@include vendor('transition', (
+				'opacity 0.5s ease',
+				'transform 0.5s ease',
+				'visibility 0.5s'
+			));
+			opacity: 0;
+			visibility: hidden;
+
+
+			& + #header {
+				.svg {
+					@include vendor('transform', 'translateY(0)');
+					opacity: 1;
+					visibility: visible;
+				}
+			}
+		}
+
+		body.is-loading & {
+			@include vendor('transform', 'translateY(2rem)');
+			opacity: 0;
+
+			&:not(.hidden) {
+				& + #header + #nav {
+					@include vendor('transform', 'translateY(4rem)');
+					opacity: 0;
+				}
+			}
+		}
+
+		@include breakpoint(medium) {
+			@include padding(_size(padding) * 0, _size(padding) * 0);
+			height: 40vh;
+
+			h1 {
+				font-size: 2.3rem;
+				padding: .5rem
+			}
+
+			h2 {
+				font-size: 1.25rem;
+				}
+
+			p {
+				br {
+					display: none;
+				}
+			}
+
+			& + #header {
+				margin-top: 1rem;
+			}
+		}
+
+		@include breakpoint(small) {
+			@include padding(_size(padding) * 0, _size(padding) * 0);
+			min-height: 40vh;
+
+			h1 {
+				font-size: 2rem;
+				line-height: 1;
+				margin-bottom: _size(element-margin) * 0;
+			}
+
+			h2 {
+				font-size: 1rem;
+				padding: .5rem;
+			}
+
+			p {
+				font-size: 1rem;
+				margin-top: 0rem;
+			}
+
+
+		}
+	}
+	#intro2 {
+		@include color-typography(invert);
+		@include color-button(invert);
 		@include vendor('align-items', 'center');
 		@include vendor('display', 'flex');
 		@include vendor('flex-direction', 'column');
@@ -18,22 +150,11 @@
 		cursor: default;
 		text-align: center;
 		z-index: 1;
-		height: 100vh;
-		
-		img {
-			padding: 1rem 0 2rem;
-		}
-		
-		h1 {
-			font-size: 3rem;
-			line-height: 1;
-			}
+		height: 60vh;
+		padding: 0;
 
-		p {
-			font-size: 1.25rem;
-			font-style: italic;
-			margin-top: 1rem;
-			text-align: center;
+		img {
+			padding: 1rem 0 1rem;
 		}
 
 		& + #header {
@@ -80,14 +201,8 @@
 		}
 
 		@include breakpoint(medium) {
-			@include padding(_size(padding) * 2, _size(padding) * 2);
-			min-height: 100vh;
-
-			p {
-				br {
-					display: none;
-				}
-			}
+			padding: 3rem 0 0 0;
+			height: 60vh;
 
 			& + #header {
 				margin-top: 1rem;
@@ -95,21 +210,9 @@
 		}
 
 		@include breakpoint(small) {
-			@include padding(_size(padding) * 1.5, _size(padding) * 1);
-			min-height: 100vh;
+			padding: 3rem 1rem 0 1rem;
+		height: 60vh;
 
-			h1 {
-				line-height: 1;
-				margin-bottom: _size(element-margin) * 0.5;
-			}
 
-			p {
-				font-size: 1rem;
-				margin-top: 0rem;
-			}
-
-			.actions {
-				display: none;
-			}
 		}
 	}
