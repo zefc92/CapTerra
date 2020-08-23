@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Steel Legs and Bases"
-date:   "2020-9-1"
+date:   2020-08-01
 excerpt: "Hairpins, Structural Steel"
 image: "/images/squarepin.jpg"
 ---
 
-Steel legs are neat cuz they are strong, also they look cool. they can be many colours. 
+Steel legs are neat cuz they are strong, also they look cool. they can be many colours.
 
 
 ### Hairpins
@@ -18,14 +18,14 @@ Steel legs are neat cuz they are strong, also they look cool. they can be many c
 <p style="clear:both;"></p>
 <hr>
 
-### Structural Steel Legs 
+### Structural Steel Legs
 <p><a href="{{ "/images/trap.jpg" | absolute_url }}" data-lightbox="structural" data-title="Structural Steel"><z class="image left"><img src="{{ "/images/trap-thumb.jpg" | absolute_url }}" alt="" /></z></a> Whether you're looking for a sturdy conversation peice or some effective protection during the next tornado, there's no substitute for structural grade steel. This table has <b>Trapazoidal</b> legs made of 2"x3".</p>
 <p style="clear:both;"></p>
 <p><a href="{{ "/images/squarepin.jpg" | absolute_url }}" data-lightbox="structural" data-title="Structural Steel" ><z class="image right"><img src="{{ "/images/squarepin-thumb.jpg" | absolute_url }}" alt="" /></z></a> Here is an example of the beefiest hairpin leg you'll find anywhere the <b>Squarepin</b> </p>
 <p style="clear:both;"></p>
 <hr>
 
-### Structural Bases 
+### Structural Bases
 <p><a href="{{ "/images/pine-box.jpg" | absolute_url }}" data-lightbox="structural2" data-title="Structural Steel"><z class="image left"><img src="{{ "/images/pine-box-thumb.jpg" | absolute_url }}" alt="" /></z></a>You ever hear the expression built like a brick shithouse? Both our <b>Regular</b> and <b>Trapezoidal</b> bases come with a simple and ludacris meteor-proof guarantee: If your table fails becomes bent, dented, collapses or otherwise fails to meet your expectations following a strike from a meteorite, we'll replace it free of charge.</p>   
 <p style="clear:both;"></p>
 <p><a href="{{ "/images/cedar-box.jpg" | absolute_url }}" data-lightbox="structural2" data-title="Structural Steel"><z class="image right"><img src="{{ "/images/cedar-box-thumb.jpg" | absolute_url }}" alt="" /></z></a>
