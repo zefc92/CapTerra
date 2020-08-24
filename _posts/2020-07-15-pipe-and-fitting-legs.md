@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Pipe and Fitting Legs"
+title:  "Pipe Legs & Bases"
 date:   2020-08-01
-excerpt: "Copper or Black Iron Pipe"
+excerpt: ""
 image: "/images/copper-pipebase.jpg"
 ---
 

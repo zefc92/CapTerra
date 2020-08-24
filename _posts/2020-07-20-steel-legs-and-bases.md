@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Steel Legs and Bases"
+title:  "Steel Legs & Bases"
 date:   2020-08-01
-excerpt: "Hairpins, Structural Steel"
+excerpt: ""
 image: "/images/squarepin.jpg"
 ---
 

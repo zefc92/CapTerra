@@ -2,7 +2,7 @@
 layout: post
 title:  "Stone Tops"
 date:   2020-08-01
-excerpt: "Concrete Slabs with Kintsugi Inspired Elements"
+excerpt: ""
 image: "/images/gold-hp.jpg"
 ---
 

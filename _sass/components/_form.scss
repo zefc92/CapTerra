@@ -12,7 +12,7 @@
 		@include vendor('display', 'flex');
 		@include vendor('flex-wrap', 'wrap');
 		width: calc(100% + #{$gutter * 2});
-		margin: ($gutter * -1) 0 _size(element-margin) ($gutter * -1);
+		margin: ($gutter * -1) 0 0 ($gutter * -1);
 
 		> .field {
 			@include vendor('flex-grow', '0');
@@ -36,7 +36,7 @@
 		> .actions {
 			@include vendor('flex-grow', '0');
 			@include vendor('flex-shrink', '1');
-			margin: ($gutter * 1.25) 0 0 $gutter !important;
+			margin: $gutter 0 0 $gutter !important;
 			width: calc(100% - #{$gutter * 2});
 		}
 
