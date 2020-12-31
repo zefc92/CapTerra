@@ -110,7 +110,7 @@ GEM
     net-dns (0.9.0)
     nokogiri (>= 1.11.0.rc4)
       mini_portile2 (~> 2.4.0)
-    nokogiri (1.10.10-x64-mingw32)
+    nokogiri (>= 1.11.0.rc4)
       mini_portile2 (~> 2.4.0)
     octokit (4.18.0)
       faraday (>= 0.9)
