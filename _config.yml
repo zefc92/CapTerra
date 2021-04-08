@@ -1,6 +1,6 @@
 # Site
-title:              Highland Park Furniture Co.
-bio:                'Custom Furniture Handmade in Calgary, Alberta'
+title:              CapTerra Landscaping
+bio:                'Design. Maintenance. Development.'
 description:        "locally made in calgary, alberta. Custom woodworking shop that does welding, furniture fabricating, custom tables, coffee tables, stone work, carpentry, and furniture making."
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -19,8 +19,7 @@ github:             default
 # personal
 location:          Calgary, Alberta
 phone:              Coming soon
-email:              info@highlandparkfurniture.ca # change this to your email to receive free emails for your contact submissions via Slapform.com
-
+email:              info@highlandparkfurniture.ca # 
 # Other
 background_image:   /images/bg.jpg 
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
