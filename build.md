@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Portfolio - Highland Park Furniture Co.
+title: Build - CapTerra Landscaping
 description: Browse our wares.
 sitemap:
     priority: 1.0
