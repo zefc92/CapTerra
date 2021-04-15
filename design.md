@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Process - Highland Park Furniture Co.
+title: Design - CapTerra Landscaping
 description: Information on ordering and what to expect during the build process.
 sitemap:
     priority: 0.7
