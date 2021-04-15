@@ -3,9 +3,9 @@
 </ul>
 <ul class="links">
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/#header" | absolute_url }}">About</a></li>
-  <li class="{% if page.url contains '/design/' %} active {% endif %}"><a href="{{ "/process/" | absolute_url }}">Design</a></li>
-  <li class="{% if page.url contains '/build/' %} active {% endif %}"><a href="{{ "/portfolio/" | absolute_url }}">Build</a></li>
-  <li class="{% if page.url contains '/maintenance/' %} active {% endif %}"><a href="{{ "/portfolio/" | absolute_url }}">Maintenance</a></li>
+  <li class="{% if page.url contains '/design/' %} active {% endif %}"><a href="{{ "/design/" | absolute_url }}">Design</a></li>
+  <li class="{% if page.url contains '/build/' %} active {% endif %}"><a href="{{ "/build/" | absolute_url }}">Build</a></li>
+  <li class="{% if page.url contains '/maintenance/' %} active {% endif %}"><a href="{{ "/maintenance/" | absolute_url }}">Maintenance</a></li>
   <li class="{% if page.url contains '/nothing/' %} active {% endif %}"><a href="#footer" class="scrolly">Contact</a></li>
 </ul>
 
