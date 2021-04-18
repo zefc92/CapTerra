@@ -36,7 +36,7 @@
 
 		}
 
-		if (intensity)
+		if (!intensity)
 			intensity = 0.25;
 
 		$this.each(function() {
@@ -83,7 +83,7 @@
 			// Enable everywhere else.
 				else {
 
-					skel.on('large -large', on);
+					skel.on('!large -large', on);
 					skel.on('+large', off);
 
 				}
