@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Maintenance - CapTerra Landscaping
+title: Portfolio - CapTerra Landscaping
 description: Information on ordering and what to expect during the build process.
 sitemap:
     priority: 0.7
