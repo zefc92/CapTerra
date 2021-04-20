@@ -21,7 +21,7 @@ location:          Calgary, Alberta
 phone:              Coming soon
 email:              info@capterralandscaping.ca # 
 # Other
-background_image:   /images/bg.jpg 
+background_image:   /images/bg.png 
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 slapform_thankyou_page: "/thanks-a-bunch"
 
