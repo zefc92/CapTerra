@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Build - CapTerra Landscaping
+title: Services - CapTerra Landscaping
 description: Browse our wares.
 sitemap:
     priority: 1.0
