@@ -2,10 +2,10 @@
 
 </ul>
 <ul class="links">
-  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/#header" | absolute_url }}">About</a></li>
-  <li class="{% if page.url contains '/design/' %} active {% endif %}"><a href="{{ "/design/" | absolute_url }}">Design</a></li>
-  <li class="{% if page.url contains '/build/' %} active {% endif %}"><a href="{{ "/build/" | absolute_url }}">Build</a></li>
-  <li class="{% if page.url contains '/maintenance/' %} active {% endif %}"><a href="{{ "/maintenance/" | absolute_url }}">Maintenance</a></li>
+  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/#header" | absolute_url }}">Home</a></li>
+  <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">About</a></li>
+  <li class="{% if page.url contains '/services/' %} active {% endif %}"><a href="{{ "/services/" | absolute_url }}">Services</a></li>
+  <li class="{% if page.url contains '/portfolio/' %} active {% endif %}"><a href="{{ "/portfolio/" | absolute_url }}">Portfolio</a></li>
   <li class="{% if page.url contains '/nothing/' %} active {% endif %}"><a href="#footer" class="scrolly">Contact</a></li>
 </ul>
 
