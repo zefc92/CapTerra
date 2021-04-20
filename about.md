@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Design - CapTerra Landscaping
+title: About - CapTerra Landscaping
 description: Information on ordering and what to expect during the build process.
 sitemap:
     priority: 0.7
