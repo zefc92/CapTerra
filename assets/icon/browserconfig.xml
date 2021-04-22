@@ -2,7 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <round180x180logo src="/assets/icon/round-icon180.png"/>
+            <round180x180logo src="/assets/icon/180.png"/>
             <TileColor>#da532c</TileColor>
         </tile>
     </msapplication>
