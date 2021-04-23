@@ -30,12 +30,12 @@ defaults:
     path: ''
     type: posts
   values:
-    permalink: "/portfolio/:title/"
+    permalink: "/services/:title/"
     layout: post
     author:
 
 # Jekyll
-permalink:          /portfolio/:title/
+permalink:          /services/:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
@@ -58,7 +58,7 @@ gems:
   - jekyll-paginate
 
 paginate: 6
-paginate_path: "/portfolio/page:num/"
+paginate_path: "/services/page:num/"
 
 jekyll-mentions:
     base_url: https://github.com
