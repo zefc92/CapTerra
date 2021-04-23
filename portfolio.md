@@ -7,7 +7,7 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-
+<div class="box alt">
 <div class="row 50% uniform">
 			<div class="4u"><a href="{{ "/images/frontgardenfull.jpg" | absolute_url }}" data-lightbox="portfolio" data-title="This is a caption"><z span class="image fit"><img src="{{ "/images/frontgarden.jpg" | absolute_url }}" alt="" /></span></z></a></div>
 			<div class="4u"><a href="{{ "/images/drainagefull.jpg" | absolute_url }}" data-lightbox="portfolio" data-title="This is a caption"><z span class="image fit"><img src="{{ "/images/drainage.jpg" | absolute_url }}" alt="" /></span></z></a></div>
