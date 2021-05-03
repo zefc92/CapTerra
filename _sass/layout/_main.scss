@@ -70,7 +70,7 @@
 
 		> .posts {
 			@include flexgrid((
-				columns:			2,
+				columns:			3,
 				gutters:			(_size(padding) * 4),
 				horizontal-align:	center,
 				vertical-align:		flex-start,
@@ -101,7 +101,7 @@
 
 			@include breakpoint(medium) {
 				@include flexgrid-resize((
-					columns:			2,
+					columns:			3,
 					gutters:			(_size(padding) * 2.5),
 					flush:				false
 				));
