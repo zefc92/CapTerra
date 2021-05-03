@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Steel Legs & Bases"
+title:  "Maintenance & Care"
 date:   2020-08-01
 excerpt: ""
 image: "/images/squarepin.jpg"
