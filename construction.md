@@ -3,7 +3,7 @@ layout: post
 title:  "Construction Services"
 date:   2020-08-01
 excerpt: ""
-image: "/images/cedar-box.jpg"
+image: "/images/backyard.jpg"
 ---
 
 CapTerra’s construction crews can turn your design ideas into reality.  We build custom yardscapes to transform your outdoor environment into a staycation destination. Our construction services include:
