@@ -6,6 +6,13 @@ excerpt: ""
 image: "/images/cedar-box.jpg"
 ---
 
+CapTerra’s construction crews can turn your design ideas into reality.  We build custom yardscapes to transform your outdoor environment into a staycation destination. Our construction services include:
+patios and walkways
+pergolas and decks
+fences and retaining walls 
+irrigation systems
+vegetable gardens and raised beds
+
 ### Patios & Walkways
 <p><a href="{{ "/images/pine-box.jpg" | absolute_url }}" data-lightbox="hardwoods" data-title="Accurate pics coming soon"><z class="image left"><img src="{{ "/images/pine-box-thumb.jpg" | absolute_url }}" alt="" /></z></a>Hardwoods such as Maple, Oak or Walnut are the gold standard in furniture materials, and will handle decades of use and wear.</p>   
 <p style="clear:both;"></p>
