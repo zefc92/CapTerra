@@ -13,15 +13,15 @@ Get the help you need from CAPTERRA’s certified horticultural specialists. We 
 <p style="clear:both;"></p>
 <p><a href="{{ "/images/frontgardenfull.jpg" | absolute_url }}" data-lightbox="Kintsugi" data-title="Marbled Grey Circle with Silver Kintsugi and Black Hairpin Legs"><z class="image right"><img src="{{ "/images/frontgarden.jpg" | absolute_url }}" alt="" /></z></a>We have several options for Kintsugi inlays: Gold, Silver, Copper etc.</p>
 <p style="clear:both;"></p>
-<p><a href="{{ "/images/copper-bean-3hp.jpg" | absolute_url }}" data-lightbox="Kintsugi" data-title="Dark Grey Bean with Copper Kintsugi and 3 Bar Hairpin Legs"><z class="image left"><img src="{{ "/images/copper-bean-3hp-thumb.jpg" | absolute_url }}" alt="" /></z></a>It is also possible to match the Kintsugi to the finish on the legs.</p>   
-<p style="clear:both;"></p>
-<hr>
+
+
 ### Infill and renovation landscaping
 <p><a href="{{ "/images/white-dipped-hp.jpg" | absolute_url }}" data-lightbox="Grout" data-title="Black Concrete Circle with White Grout and 'Dipped' Hairpin Legs"><z class="image left"><img src="{{ "/images/white-dipped-hp-thumb.jpg" | absolute_url }}" alt="" /></z></a>If you're interested in something a bit more subdued, we also offer coloured grout.</p>   
 <p style="clear:both;"></p>
-<p><a href="{{ "/images/square.jpg" | absolute_url }}" data-lightbox="Grout" data-title="Medium Grey Slab with White Kintsugi and Hammered Black Squarepin Legs"><z class="image right"><img src="{{ "/images/squarepin-thumb.jpg" | absolute_url }}" alt="" /></z></a>
-<p style="clear:both;"></p>
+
 
 ### Hardscape and softscape yard plans
+
 ### 3D renderings and sketches
+
 ### DIY advice and guidance
