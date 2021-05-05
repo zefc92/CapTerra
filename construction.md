@@ -32,4 +32,4 @@ vegetable gardens and raised beds
 ### Vegetable Gardens & Raised Beds
 <p><a href="{{ "/images/walkwayfull.jpg" | absolute_url }}" data-lightbox="vegetable" data-title="Accurate pics coming soon"><z class="image left"><img src="{{ "/images/walkway.jpg" | absolute_url }}" alt="" /></z></a> Walkways such as Maple, Oak or Walnut are the gold standard in furniture materials, and will handle decades of use and wear.<a href="{{ "/images/treefull.jpg" | absolute_url }}" data-lightbox="walkways" data-title="big ol tree"></a></p>   
 <p style="clear:both;"></p>
-<hr>
+
