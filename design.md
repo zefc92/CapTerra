@@ -6,7 +6,7 @@ excerpt: ""
 image: "/images/riverrock.jpg"
 ---
 
-Get the help you need from CAPTERRA’s certified horticultural specialists. We have the creativity, experience and technical expertise to design your perfect outdoor space. Our consultation and design services include:
+Get the help you need from CapTerra’s certified horticultural specialists. We have the creativity, experience and technical expertise to design your perfect outdoor space. Our consultation and design services include:
 
 ### Custom plant bed and pathway designs
 <p><a href="{{ "/images/drainagefull.jpg" | absolute_url }}" data-lightbox="Arch" data-title="Drainage feature"><z class="image left"><img src="{{ "/images/drainage.jpg" | absolute_url }}" alt="" /></z></a>Kintsugi is the Japanese art of using gold in the repair of a broken item. Rather than disguising the work it is used to enhance the beauty of the piece.</p>   
