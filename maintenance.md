@@ -16,4 +16,4 @@ Ongoing Garden Bed Maintenance</p><p>
 Other landscaping services</p><p>
 Custom schedules and flexible prices for every budget<a href="{{ "/images/treefull.jpg" | absolute_url }}" data-lightbox="maintenance" data-title="big ol tree"></a></p>   
 <p style="clear:both;"></p>
-<hr>
+
