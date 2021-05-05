@@ -16,7 +16,7 @@ Get the help you need from CAPTERRA’s certified horticultural specialists. We 
 
 
 ### Infill and renovation landscaping
-<p><a href="{{ "/images/white-dipped-hp.jpg" | absolute_url }}" data-lightbox="Grout" data-title="Black Concrete Circle with White Grout and 'Dipped' Hairpin Legs"><z class="image left"><img src="{{ "/images/white-dipped-hp-thumb.jpg" | absolute_url }}" alt="" /></z></a>If you're interested in something a bit more subdued, we also offer coloured grout.</p>   
+<p><a href="{{ "/images/riverrock.jpg" | absolute_url }}" data-lightbox="Grout" data-title="Black Concrete Circle with White Grout and 'Dipped' Hairpin Legs"><z class="image left"><img src="{{ "/images/riverrock.jpg" | absolute_url }}" alt="" /></z></a>If you're interested in something a bit more subdued, we also offer coloured grout.</p>   
 <p style="clear:both;"></p>
 
 
