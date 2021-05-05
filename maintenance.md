@@ -14,9 +14,6 @@ Seasonal Planting and Cleanup
 Perennial shrub pruning and removal
 Ongoing Garden Bed Maintenance
 Other landscaping services
-Custom schedules and flexible prices for every budget
-</p>
+Custom schedules and flexible prices for every budget<a href="{{ "/images/treefull.jpg" | absolute_url }}" data-lightbox="maintenance" data-title="big ol tree"></a></p>   
+<p style="clear:both;"></p>
 <hr>
-
-
-
