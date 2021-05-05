@@ -22,7 +22,7 @@ vegetable gardens and raised beds
 <p style="clear:both;"></p>
 <hr>
 ### Fences & Retaining Walls
-<p><a href="{{ "/images/flagstonefull.jpg" | absolute_url }}" data-lightbox="fences" data-title="Pecan Stained Pine Top and Matte Black Box Base"><z class="image left"><img src="{{ "/images/pine-box-thumb.jpg" | absolute_url }}" alt="" /></z></a>Softwoods such as Pine or Cedar are an affordable option for table tops and can be effectively protected by the use of a polyurethane top coat.</p>   
+<p><a href="{{ "/images/flagstonefull.jpg" | absolute_url }}" data-lightbox="fences" data-title="Pecan Stained Pine Top and Matte Black Box Base"><z class="image left"><img src="{{ "/images/flagstone.jpg" | absolute_url }}" alt="" /></z></a>Softwoods such as Pine or Cedar are an affordable option for table tops and can be effectively protected by the use of a polyurethane top coat.</p>   
 <p style="clear:both;"></p>
 <hr>
 ### Irrigation Systems
