@@ -13,15 +13,16 @@ Get the help you need from CapTerra’s certified horticultural specialists. We 
 <p style="clear:both;"></p>
 <p><a href="{{ "/images/frontgardenfull.jpg" | absolute_url }}" data-lightbox="Kintsugi" data-title="Marbled Grey Circle with Silver Kintsugi and Black Hairpin Legs"><z class="image right"><img src="{{ "/images/frontgarden.jpg" | absolute_url }}" alt="" /></z></a>We have several options for Kintsugi inlays: Gold, Silver, Copper etc.</p>
 <p style="clear:both;"></p>
-
-
+<hr>
 ### Infill and renovation landscaping
 <p><a href="{{ "/images/riverrock.jpg" | absolute_url }}" data-lightbox="Grout" data-title="Black Concrete Circle with White Grout and 'Dipped' Hairpin Legs"><z class="image left"><img src="{{ "/images/riverrock.jpg" | absolute_url }}" alt="" /></z></a>If you're interested in something a bit more subdued, we also offer coloured grout.</p>   
 <p style="clear:both;"></p>
-
-
+<hr>
 ### Hardscape and softscape yard plans
-
+<p style="clear:both;"></p>
+<hr>
 ### 3D renderings and sketches
-
+<p style="clear:both;"></p>
+<hr>
 ### DIY advice and guidance
+<p style="clear:both;"></p>
