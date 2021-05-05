@@ -15,6 +15,7 @@ Perennial shrub pruning and removal
 Ongoing Garden Bed Maintenance
 Other landscaping services
 Custom schedules and flexible prices for every budget
+<hr>
 
 
 
