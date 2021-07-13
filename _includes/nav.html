@@ -2,11 +2,9 @@
 
 </ul>
 <ul class="links">
-  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}#header">Home</a></li>
+  <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}#header">About</a></li>
    <li class="{% if page.url contains '/design/' %} active {% endif %}"><a href="{{ "/design/" | absolute_url }}">Design & Consultations</a></li>
   <li class="{% if page.url contains '/construction/' %} active {% endif %}"><a href="{{ "/construction/" | absolute_url }}">Construction Services</a></li>
    <li class="{% if page.url contains '/maintenance/' %} active {% endif %}"><a href="{{ "/maintenance/" | absolute_url }}">Maintenance & Care</a></li>
   <li class="{% if page.url contains '/nothing/' %} active {% endif %}"><a href="#footer" class="scrolly">Contact</a></li>
 </ul>
-
-
