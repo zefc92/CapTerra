@@ -4,7 +4,7 @@
     <url>
       <loc>http://localhost:4000/services/design/</loc>
       
-        <lastmod>2020-08-01T00:00:00-07:00</lastmod>
+        <lastmod>2020-08-01T00:00:00-06:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>0.7</priority>
@@ -13,7 +13,7 @@
     <url>
       <loc>http://localhost:4000/services/maintenance/</loc>
       
-        <lastmod>2020-08-01T00:00:00-07:00</lastmod>
+        <lastmod>2020-08-01T00:00:00-06:00</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>0.7</priority>
@@ -22,7 +22,7 @@
   
     <url>
       <loc>http://localhost:4000/about/</loc>
-       <lastmod>2017-11-02T00:00:00-07:00</lastmod>
+       <lastmod>2017-11-02T00:00:00-06:00</lastmod>
       
        <changefreq>weekly</changefreq>
       
@@ -52,7 +52,7 @@
   
     <url>
       <loc>http://localhost:4000/elements/</loc>
-       <lastmod>2017-11-02T00:00:00-07:00</lastmod>
+       <lastmod>2017-11-02T00:00:00-06:00</lastmod>
       
        <changefreq>weekly</changefreq>
       
@@ -62,7 +62,7 @@
   
     <url>
       <loc>http://localhost:4000/</loc>
-       <lastmod>2020-08-02T00:00:00-07:00</lastmod>
+       <lastmod>2020-08-02T00:00:00-06:00</lastmod>
       
        <changefreq>weekly</changefreq>
       
@@ -102,7 +102,7 @@
   
     <url>
       <loc>http://localhost:4000/portfolio/</loc>
-       <lastmod>2017-11-02T00:00:00-07:00</lastmod>
+       <lastmod>2017-11-02T00:00:00-06:00</lastmod>
       
        <changefreq>weekly</changefreq>
       
@@ -112,7 +112,7 @@
   
     <url>
       <loc>http://localhost:4000/services/</loc>
-       <lastmod>2017-11-02T00:00:00-07:00</lastmod>
+       <lastmod>2017-11-02T00:00:00-06:00</lastmod>
       
        <changefreq>weekly</changefreq>
       
