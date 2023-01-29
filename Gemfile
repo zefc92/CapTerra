@@ -1,11 +1,10 @@
 source "https://rubygems.org"
 
-#gem "jekyll", "~> 4.2.0"
+gem "jekyll"
 gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem 'jekyll-mentions'
 gem 'jekyll-feed'
 gem 'jekyll-paginate'
-gem "github-pages", "~> 215", group: :jekyll_plugins
-
+gem "github-pages", group: :jekyll_plugins
 gem "webrick", "~> 1.7"
