@@ -16,10 +16,10 @@
 			border-radius: _size(border-radius);
 			display: block;
 		}
-		
+
 		&.brand {
 			height: 5rem;
-		}	
+		}
 
 		&.left,
 		&.right {
@@ -86,8 +86,8 @@
 				width: 100%;
 			}
 		}
-		
-		
+
+
 		@include breakpoint(medium) {
 			&.main {
 				width: 75%;
